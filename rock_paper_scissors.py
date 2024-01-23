@@ -35,3 +35,4 @@ elif player_move == computer_move:
     print("Draw!")
 else:
     print("You lost!")
+    print("Loser!")
