@@ -34,5 +34,4 @@ if (player_move == rock and computer_move == scissors) or \
 elif player_move == computer_move:
     print("Draw!")
 else:
-    print("You lost!")
     print("Loser!")
